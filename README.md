@@ -11,7 +11,7 @@ There are four resources:
 Unauthenticated users can view information about all entities; authenticated
 users can rate books.
 
-[`bookworm-api`](http://github.com/jonblack/bookworm-client) is a frontend
+[`bookworm-client`](http://github.com/jonblack/bookworm-client) is a frontend
 web application that implements this API.
 
 # Requirements
